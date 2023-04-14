@@ -1,0 +1,11 @@
+[book]
+title = "# Reference of Signature"
+authors = ["ky0422"]
+language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/siglang/reference"
+
+[output.html.playground]
+editable = true
+line-numbers = true
